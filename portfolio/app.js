@@ -13,7 +13,7 @@
 
 
 var typed = new Typed(".text", {
-    strings: ["Youtuber", "Web Developer"],
+    strings: ["Web Designer", "Web Developer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
