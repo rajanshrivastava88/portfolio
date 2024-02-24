@@ -252,7 +252,7 @@ section {
     box-shadow: 1px 4px 15px rgba(0, 0, 0, 0.32);
 
 }
-.about-container .right-about .about-item .about-text {
+.about-container .right-about .about-item .abt-text {
     padding: 1.5rem;
     display: flex;
     flex-direction: column;
